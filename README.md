@@ -1,5 +1,5 @@
 Zcash Classic 1.0.0
-===========
+===================
 
 What is Zcash Classic?
 --------------
